@@ -16,7 +16,7 @@ Feito em python
 - Tenha uma IDE também instalada no seu computador, e, se necessário extensões que possibilitem o uso de Python
 - Abra o repositório no git hub, clique em "<> Code" e depois "Download ZIP" ou clone ele no seu diretório de prefência dentro do terminal do seu computador com o seguinte comando:
   
-    ``git clone https://github.com/Bruno567/consumo-energia.git``
+    ``git clone https://github.com/Bruno-567/consumo-energia.git``
 
 - Abra o arquivo na sua IDE e insira os dados necessários
 
