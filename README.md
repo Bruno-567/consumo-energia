@@ -13,11 +13,11 @@ Feito em python
 
 [![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/downloads/)
 
-- Você também pode instalar diretamente no seu terminal, usando seu pacote de arquivos com o comando
+- Você também pode instalar diretamente no seu terminal, usando seu pacote de arquivos com o comando:
 
   ``(seu instalador) install python``
   
-- Abra o repositório no git hub, clique em "<> Code" e depois "Download ZIP" ou clone ele no seu diretório de prefência dentro do terminal do seu computador com o seguinte comando:
+- Abra o repositório no git hub, clique em "<> Code" e depois "Download ZIP", ou clone ele no seu diretório de prefência; para isso digite do terminal do seu dispositivo o seguinte comando:
   
     ``git clone https://github.com/Bruno-567/consumo-energia.git``
   
