@@ -13,12 +13,19 @@ Feito em python
 
 [![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/downloads/)
 
-- Tenha uma IDE também instalada no seu computador, e, se necessário extensões que possibilitem o uso de Python
 - Abra o repositório no git hub, clique em "<> Code" e depois "Download ZIP" ou clone ele no seu diretório de prefência dentro do terminal do seu computador com o seguinte comando:
   
     ``git clone https://github.com/Bruno-567/consumo-energia.git``
 
-- Abra o arquivo na sua IDE e insira os dados necessários
+- Abra seu terminal dentro do diretório criado com o nome do repositório
+  
+  ``cd consumo-energia``
+  
+- Dentro do diretório digite
 
+  ``python app.py``
+
+- utilize o programa inserindo os dados que ele pede
+  
 #
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
