@@ -24,6 +24,7 @@ Feito em python
 - Para instalação pelo terminal é necessário ter o git instalado, caso não possua, faça assim como o Python:
 
   ``(seu instalador) install git``
+  
   E então clone o repositório.
 
 - Abra o terminal dentro do diretório com o nome do repositório
