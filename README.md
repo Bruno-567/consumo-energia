@@ -11,7 +11,7 @@ Feito em python
 ## Como usar?
 - Tenha o Python instalado no seu dispositivo, instale no site oficial deles clicando aqui:
 
-[![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/downloads/)
+   [![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/downloads/)
 
 - Você também pode instalar diretamente no seu terminal, usando seu pacote de arquivos com o comando:
 
