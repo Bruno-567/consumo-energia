@@ -17,7 +17,7 @@ Feito em python
 
   ``(seu instalador) install python``
   
-- Abra o repositório no git hub, clique em "<> Code" e depois "Download ZIP", ou clone ele no seu diretório de prefência; para isso digite do terminal do seu dispositivo o seguinte comando:
+- Abra o repositório no git hub, clique em "<> Code" e depois "Download ZIP", ou clone ele no seu diretório de preferência; para isso digite do terminal do seu dispositivo o seguinte comando:
   
     ``git clone https://github.com/Bruno-567/consumo-energia.git``
   
